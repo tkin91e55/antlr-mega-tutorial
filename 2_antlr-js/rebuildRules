@@ -1,0 +1,4 @@
+#!/bin/sh
+
+antlr $1
+javac *.java
