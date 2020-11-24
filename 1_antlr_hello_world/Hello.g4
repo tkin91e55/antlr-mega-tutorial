@@ -1,6 +1,7 @@
 grammar Hello;
 
-//??What are the parser and lexer rules?
+//??What are the parser and lexer rules? !! they are two separated .g4 files, starting with lexer grammar/parser grammar...
+//Here is an example of combined grammar rule
 
 /*
 
