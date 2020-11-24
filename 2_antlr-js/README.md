@@ -31,4 +31,9 @@ node[js] antlr.js
 
 1. antlr4 -Dlanguage=JavaScript Chat.g4 
 2. ChatListener.js is auto-generated, but HTMLChatListener.js is mannual script to override ChatListener.js
+3. curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+4. sudo apt-get install gcc g++ make
+5. sudo apt-get install -y nodejs
+6. npm install #go to the package.json javascript project
+7. node antlr.js #then at broswer localhost:1337
 ```
